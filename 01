@@ -1,0 +1,4 @@
+tensorflow 学习笔记
+
+#创建1 X 20 的零向量，dtype 可这执行数据类型
+tf.zeros([1,20])
